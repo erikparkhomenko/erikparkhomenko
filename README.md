@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @erkki-moondodge
+- 👋 Hi, I’m @erikparkhomenko
 - 👀 I’m interested in learning more about CS
 - 🌱 I’m currently enrolled and studying in the CS50 course
 - 💞️ I’m looking to collaborate on the course 
-- 📫 How to reach me: Discord: erkki.moon.dodge#1353
+- 📫 How to reach me: Discord: erikparkhomenko#1315
 
 <!---
 erkki-moondodge/erkki-moondodge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
